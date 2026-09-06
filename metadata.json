@@ -1,0 +1,6 @@
+{
+  "name": "Éclat Restaurant & Lounge",
+  "description": "Haute gastronomy and nocturnal luxury dining experience featuring Michelin-level pairings, curated tasting menus, and a theatrical architectural lounge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
